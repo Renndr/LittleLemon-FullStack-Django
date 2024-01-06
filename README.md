@@ -2,6 +2,8 @@
 
 ## Description
 
+#### This is a proyect for Meta Back end developer 
+
 LittleLemon is a Django project for a restaurant that provides an API to view menu items and a booking form. The project uses SQLite as the database for simplicity.
 
 ## Features
